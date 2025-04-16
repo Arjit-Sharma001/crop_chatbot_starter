@@ -10,7 +10,7 @@ A chatbot that generates crop performance insights and visual charts using Gemin
 - 🧠 Flexible query interpretation via **spaCy NLP**
 - 📈 Auto-generated charts using **Matplotlib**
 - 💬 Web UI interface *(can integrate with Google Chat App using Google Cloud)*
-- 🔮 Easily extendable to Telegram bots or cloud services
+- 🔮 Easily extendable to Google Chat App bots or cloud services
 
 ---
 
